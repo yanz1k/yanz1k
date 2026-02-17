@@ -1,6 +1,6 @@
-🌱 I’m currently learning C++, GDScript and Java
-📫 How to reach me: discord: yanz1k
-Elite ball knowledge
+-🌱 I’m currently learning C++, GDScript and Java
+-📫 How to reach me: discord: yanz1k
+-Elite ball knowledge
 <!--
 **yanz1k/yanz1k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
